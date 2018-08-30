@@ -1,0 +1,17 @@
+body{
+    background-color: #c5dfc5;
+}
+
+
+h1{
+    text-align: center;
+}
+
+li{
+    list-style-type: none;
+    display: inline;
+    padding: 10px;
+    text-decoration: none;
+}
+
+
